@@ -7,6 +7,7 @@
 3.  [General Description](#general-description)
 4.  [Technology Stack](#technology-stack)
 5.  [Results](#results)
+6.  [Demo Video](#demo-video)
 7.  [Implementation](#implementation)
 8.  [Evaluation of all experimental tools tested](#evaluation-of-all-experimental-tools-tested)
 9.  [Conclusions](#conclusions)
@@ -95,6 +96,10 @@ The below image shows a histogram of historical data ranging over 12 months.
 The following link enables any user to access data remotely without having to create any IBM account or download any application/software.
 
 https://node-red-cloudfoundaryapp.eu-gb.mybluemix.net/ui/#!/0?socketid=KEZs59HbwqJprgQmAABU
+
+## Demo Video
+
+https://youtu.be/6Ye_JBaVJPM
 
 ## IMPLEMENTATION
 
