@@ -103,7 +103,7 @@ https://node-red-cloudfoundaryapp.eu-gb.mybluemix.net/ui/#!/0?socketid=KEZs59Hbw
 
 The youtube link given below is the demo video of our project.
 
-https://youtu.be/6Ye_JBaVJPM
+[![Watch the video](https://github.com/NeomiSony/CallforCode/edit/master/images/historicalchart.jpg)](https://youtu.be/6Ye_JBaVJPM)
 
 
 ## IMPLEMENTATION
