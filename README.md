@@ -26,4 +26,35 @@ Smart solutions for water quality monitoring are gaining importance with advance
 Highlights of this project include a user friendly dashboard with easily understandable visualizations to understand the quality of water used on a regular basis. The IBM Cloud platform that is used here is easily accessible by a consumer at any time which increases its functionality and it also facilitates easy migration to other Cloud platforms.
 For this particular undertaking, our focus is on monitoring the total dissolved salts(TDS) present in water. Additional details regarding the pH of water and the real time values of temperature and humidity is displayed as well.
 
+## GENERAL DESCRIPTION 
+
+The theory on real-time monitoring of water quality in an IOT environment is presented here. 
+
+![quantity](quantity.jpg)
+
+The overall block diagram of the proposed system is given in the Simulation Set up.
+
+The entire design of the system is based on IOT which is a newly introduced concept in the world of technology. There are two parts included, hardware & software. 
+
+The hardware part has sensors which help to measure the real-time values. The Arduino Atmega328 microcontroller converts the analog values to digital values, the ESP8266 Wi-Fi module gives the MQTT connection between the hardware and software components when connected to a Wi-Fi network. It sends device data as per MQTT protocol.
+
+The solution is developed entirely on IBM Cloud using Watson IoT platform along with Node-RED. A database on Cloudant is required for storing the historical data and also the run time data. Node Red is a low-code development environment used for wiring the Watson and Cloudant components together. And finally we use the built in dashboard nodes that come with Node-RED to perform analysis on the data procured by the sensor and plot graphs to give a precise report on the quality of the water which can be accessed by any user with the URL provided to access the Web service.
+
+## Technology stack
+
+### 	Arduino UNO
+
+Arduino Uno is a microcontroller board based on the ATmega328P.The ATmega328 is a single-chip simple, low-powered, low-cost micro-controller.
+
+### 	ESP8266
+Arduino is connected to the internet by adding ESP8266 Wi-Fi Module. The ESP8266 Wi-Fi module is a complete Wi-¬Fi network which provides wireless internet access interface to any microcontroller¬ based design on its simple connectivity through Serial Communication or UART interface.
+
+### 	DHT11 sensor
+The DHT11 is a commonly used Temperature and humidity sensor. The sensor comes with a dedicated NTC to measure temperature and an 8-bit microcontroller to output the values of temperature and humidity as serial data. The sensor is also factory calibrated and hence easy to interface with other microcontrollers.
+Note: For the purpose this project, the pH and TDS values used here are taken from City datasets.
+
+![flowchart](flowchart.jpg)
+
+
+
 
