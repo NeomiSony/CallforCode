@@ -123,5 +123,22 @@ Below are a couple of screenshots of the Node-RED nodes which manifests into the
 
 The pros found in each of the following tools impelled us to dig deeper into that service until the cons forced us to switch to another befitting IBM tool which satisfied all our prerequisites.The efforts were directed towards finding the best tool for all our visualization needs
 
+### •	IBM IoT Watson Platform
+
+![procons1](proscons3.jpg)
+
+### •	IBM Cognos Analytics
+
+![proscons2](proscons1.jpg)
+
+### •	IBM Watson Studio
+
+![proscons3](proscons3.jpg)
+
+The detailed analysis of the above IBM tools led us to settle upon Node-Red Dashboard as the primary console and visualization platform. 
+
+
+
+
 
 
