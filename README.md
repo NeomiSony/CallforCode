@@ -137,6 +137,66 @@ The pros found in each of the following tools impelled us to dig deeper into tha
 
 The detailed analysis of the above IBM tools led us to settle upon Node-Red Dashboard as the primary console and visualization platform. 
 
+## CONCLUSIONS
+
+Monitoring of TDS of water helps us have an easy way to check the quality of water at households. The system can monitor water quality automatically, and it is low in cost and does not require people on duty. The time interval of monitoring might be changed depending upon necessity. So the process of water quality testing is likely to be more economical, convenient to use and reliable. The system has good flexibility. Only by replacing the corresponding sensors and changing the relevant software programs, this system can be used to monitor other water quality parameters as well. The operation is simple. The system can be expanded to monitor hydrologic, air pollution, industrial and agricultural production and so on. It has widespread application and extensive value. 
+
+## FUTURE WORKS
+
+❏	Extending the project by including other appropriate hardware to test other parameters of water like turbidity, pH,etc.
+
+❏	Development of a mobile application for easier accessibility and use of the product.
+
+❏	Expanding the target audience base by making it available for industries and other big giants.
+
+## APPENDIX
+
+### DISADVANTAGES OF HARD-WATER
+
+	Washing: Hard water, when used for washing purposes, does not producing lather freely with soap. As a result, cleaning quality of soap is decreased and a lot of it is wasted.
+
+	Bathing: Hard water does not lather freely with soap solution, but produces sticky scum on the bathtub and body. Thus, the cleaning quality of soap is depressed and a lot of it is wasted.
+
+	Cooking: The boiling point of water is increased because of presence of salts. Hence more fuel and time are required for cooking. 
+
+	Drinking: Hard water causes bad effects on our digestive system. Moreover, the possibility of forming calcium oxalate crystals in urinary tracks is increased. 2. Industrial Use:
+
+	Textile Industry: Hard water causes wastage of soap. Precipitates of calcium and magnesium soaps adhere to the fabrics and cause problem.
+
+	Sugar Industry: The water which containing sulphates, nitrates, alkali carbonates are used in sugar refining, cause difficulties in the crystallization of sugar.
+
+	Dyeing Industry: The dissolved salts in hard water may reacts with costly dyes forming precipitates. 
+
+	Paper Industry: Calcium, magnesium, Iron salts in water may affect the quality of paper.
+
+	Pharmaceutical Industry: Hard water may cause some undesirable products while preparation of pharmaceutical products. 
+
+	For steam generation, boilers are almost invariably employed. If the hard water is fed directly to the boilers, there arise many troubles such as: Scales & sludges formation, Corrosion, Priming & Foaming and Caustic embrittlement.
+
+	The minerals in hard water can also change the pH balance of your skin, weakening it as a barrier against harmful bacteria and infections. People with eczema may be especially vulnerable.
+
+## REFERENCES
+
+❏	S.Geetha,S.Gouthami, Internet of things enabled real time water quality monitoring system,2017,SpringerOpen.
+
+❏	Anuradha T, IoT Based Low Cost System for Monitoring of Water Quality in Real Time,2018, International Research Journal of Engineering and Technology (IRJET).
+
+❏	Hardness in Drinking-water, Background document for development of WHO Guidelines for Drinking-water Quality
+
+❏	IBM Cloud Docs
+
+❏	ESP8266 IoT workshop on GitHub by Binnes.
+
+With valuable inputs and guidance by the IBM team headed by 
+Lekha P Panikulangara
+IBM Certified IT Specialist & Certified Scrum Master,
+IBM Client Innovation Center(CIC)-India.
+
+
+
+
+
+
 
 
 
