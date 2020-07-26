@@ -140,7 +140,7 @@ The pros found in each of the following tools impelled us to dig deeper into tha
 
 ### •	IBM Watson Studio
 
-![proscons3](proscons3.jpg)
+![proscons2](proscons2.jpg)
 
 The detailed analysis of the above IBM tools led us to settle upon Node-Red Dashboard as the primary console and visualization platform. 
 
