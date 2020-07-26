@@ -168,7 +168,7 @@ Monitoring of TDS of water helps us have an easy way to check the quality of wat
 
 	The minerals in hard water can also change the pH balance of your skin, weakening it as a barrier against harmful bacteria and infections. People with eczema may be especially vulnerable.
 
-## Authors
+## AUTHORS
 
 R. Darsini,
 PES University,
