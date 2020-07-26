@@ -1,11 +1,4 @@
 # IoT based Water Quality Analysis
-R. Darsini,
-PES University,
-Bangalore, Karnataka.					
-
-Neomi Sony,
-CUSAT,
-Kochi, Kerala.
 
 ## PROBLEM STATEMENT
 Every organism on earth needs water to survive. Verbally saying whether water is good or bad isn't very simple but with water quality tests it can be measured and studied. Water quality is used to measure the condition of water through its physical, biological and chemical characteristics. The testing is done in the context of the intended use of the water. It is not a secret that the current problem of water pollution is a serious threat to the health of humanity. The reason is quite obvious since nowadays it is practically impossible to consume water without any artificial treatment being applied. What is meant here is the fact that nowadays water cannot be used in its original form as it is taken from nature. In stark contrast, water needs to undergo various stages of special treatment that prepares it for consumption by people without any harm to their health.
@@ -175,23 +168,15 @@ Monitoring of TDS of water helps us have an easy way to check the quality of wat
 
 	The minerals in hard water can also change the pH balance of your skin, weakening it as a barrier against harmful bacteria and infections. People with eczema may be especially vulnerable.
 
-## REFERENCES
+## Authors
 
-❏	S.Geetha,S.Gouthami, Internet of things enabled real time water quality monitoring system,2017,SpringerOpen.
+R. Darsini,
+PES University,
+Bangalore, Karnataka.					
 
-❏	Anuradha T, IoT Based Low Cost System for Monitoring of Water Quality in Real Time,2018, International Research Journal of Engineering and Technology (IRJET).
-
-❏	Hardness in Drinking-water, Background document for development of WHO Guidelines for Drinking-water Quality
-
-❏	IBM Cloud Docs
-
-❏	ESP8266 IoT workshop on GitHub by Binnes.
-
-With valuable inputs and guidance by the IBM team headed by 
-Lekha P Panikulangara
-IBM Certified IT Specialist & Certified Scrum Master,
-IBM Client Innovation Center(CIC)-India.
-
+Neomi Sony,
+CUSAT,
+Kochi, Kerala.
 
 
 
