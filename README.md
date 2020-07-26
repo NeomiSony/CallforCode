@@ -1,5 +1,22 @@
 # IoT based Water Quality Analysis
 
+## Contents
+
+1. [Problem Statement](#problem-statement)
+2. [Abstract](#abstract)
+3. [General Description](#general-description)
+4. [Technology Stack](#technology-stack)
+5. [Project roadmap](#project-roadmap)
+7. [ABSTRACT](#getting-started)
+8. [Running the tests](#running-the-tests)
+9. [Live demo](#live-demo)
+10. [Built with](#built-with)
+11. [Contributing](#contributing)
+14. [Versioning](#versioning)
+15. [Authors](#authors)
+16. [License](#license)
+17. [Acknowledgments](#acknowledgments)
+
 ## PROBLEM STATEMENT
 Every organism on earth needs water to survive. Verbally saying whether water is good or bad isn't very simple but with water quality tests it can be measured and studied. Water quality is used to measure the condition of water through its physical, biological and chemical characteristics. The testing is done in the context of the intended use of the water. It is not a secret that the current problem of water pollution is a serious threat to the health of humanity. The reason is quite obvious since nowadays it is practically impossible to consume water without any artificial treatment being applied. What is meant here is the fact that nowadays water cannot be used in its original form as it is taken from nature. In stark contrast, water needs to undergo various stages of special treatment that prepares it for consumption by people without any harm to their health.
 
@@ -33,7 +50,7 @@ The hardware part has sensors which help to measure the real-time values. The Ar
 
 The solution is developed entirely on IBM Cloud using Watson IoT platform along with Node-RED. A database on Cloudant is required for storing the historical data and also the run time data. Node Red is a low-code development environment used for wiring the Watson and Cloudant components together. And finally we use the built in dashboard nodes that come with Node-RED to perform analysis on the data procured by the sensor and plot graphs to give a precise report on the quality of the water which can be accessed by any user with the URL provided to access the Web service.
 
-## Technology stack
+## TECHNOLOGY STACK
 
 ### 	Arduino UNO
 
