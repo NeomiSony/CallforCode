@@ -97,7 +97,9 @@ The following link enables any user to access data remotely without having to cr
 
 https://node-red-cloudfoundaryapp.eu-gb.mybluemix.net/ui/#!/0?socketid=KEZs59HbwqJprgQmAABU
 
-## Demo Video
+## DEMO VIDEO
+
+The youtube link given below is the demo video of our project.
 
 https://youtu.be/6Ye_JBaVJPM
 
