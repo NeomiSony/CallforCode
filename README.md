@@ -88,7 +88,7 @@ The below image shows historical data over a set short period of time.
 
 ![runtimedata](runtimedata.jpg)
 
-The below image shows a histogram of historical data ranging over 4 months.
+The below image shows a histogram of historical data ranging over 12 months.
 
 ![historicalchart](historicalchart.jpg)
 
