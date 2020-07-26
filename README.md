@@ -12,4 +12,4 @@ Every organism on earth needs water to survive. Verbally saying whether water is
 
 Water hardness is the traditional measure of the capacity of water to react with soap, hard water requiring considerably more soap to produce a lather. Hard water often produces a noticeable deposit of precipitate (e.g. insoluble metals, soaps or salts) in containers. It is not caused by a single substance but by a variety of dissolved polyvalent metallic ions, predominantly calcium and magnesium cations, although other cations (e.g. aluminum, barium, iron, manganese, strontium and zinc) also contribute. Hardness is most commonly expressed as milligrams of calcium carbonate equivalent per liter. 
 
-!.[equation](eqn.jpg)
+![equation](eqn.jpg)
