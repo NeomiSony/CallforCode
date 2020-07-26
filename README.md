@@ -158,7 +158,7 @@ Monitoring of TDS of water helps us have an easy way to check the quality of wat
 
 ## APPENDIX
 
-### DISADVANTAGES OF HARD-WATER
+### Disadvantages of Hard Water
 
 	Washing: Hard water, when used for washing purposes, does not producing lather freely with soap. As a result, cleaning quality of soap is decreased and a lot of it is wasted.
 
