@@ -91,5 +91,37 @@ https://node-red-cloudfoundaryapp.eu-gb.mybluemix.net/ui/#!/2?socketid=q0bjxnX1b
 
 ## IMPLEMENTATION
 
+A few screenshots of the step-wise execution have been added below.
+
+![device](device.jpg)
+
+The above image shows the sensor device status at any given time whether it is connected or not.
+
+![events](events.jpg)
+
+The above image shows incoming data from the sensor which is intercepted by the IBM Watson IoT Platform.
+
+![cloudant](cloudant.jpg)
+
+The above image shows the Cloudant database where the incoming data from the sensors is saved for historical data references.
+
+![db](db.jpg)
+
+The above image shows the contents of a database on Cloudant called ‘storedata’.This JavaScript payload was modified according to the project’s needs.
+
+Below are a couple of screenshots of the Node-RED nodes which manifests into the final visualizations.
+
+![connect](connect.jpg)
+
+![tds](tds.jpg)
+
+![dht](dht.jpg)
+
+![hist](histnode.jpg)
+
+## EVALUATION OF ALL EXPERIMENTAL TOOLS TESTED
+
+The pros found in each of the following tools impelled us to dig deeper into that service until the cons forced us to switch to another befitting IBM tool which satisfied all our prerequisites.The efforts were directed towards finding the best tool for all our visualization needs
+
 
 
