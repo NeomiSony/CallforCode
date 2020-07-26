@@ -95,13 +95,17 @@ The below image shows a histogram of historical data ranging over 12 months.
 
 The following link enables any user to access data remotely without having to create any IBM account or download any application/software.
 
+
 https://node-red-cloudfoundaryapp.eu-gb.mybluemix.net/ui/#!/0?socketid=KEZs59HbwqJprgQmAABU
+
 
 ## DEMO VIDEO
 
 The youtube link given below is the demo video of our project.
 
+
 https://youtu.be/6Ye_JBaVJPM
+
 
 ## IMPLEMENTATION
 
