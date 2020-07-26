@@ -57,6 +57,8 @@ Arduino Uno is a microcontroller board based on the ATmega328P.The ATmega328 is 
 ### 	ESP8266
 Arduino is connected to the internet by adding ESP8266 Wi-Fi Module. The ESP8266 Wi-Fi module is a complete Wi-¬Fi network which provides wireless internet access interface to any microcontroller¬ based design on its simple connectivity through Serial Communication or UART interface.
 
+![hardware](hardware.jpg)
+
 ### 	DHT11 sensor
 The DHT11 is a commonly used Temperature and humidity sensor. The sensor comes with a dedicated NTC to measure temperature and an 8-bit microcontroller to output the values of temperature and humidity as serial data. The sensor is also factory calibrated and hence easy to interface with other microcontrollers.
 Note: For the purpose this project, the pH and TDS values used here are taken from City datasets.
